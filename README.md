@@ -20,15 +20,43 @@ A lightweight, fast, and dependency-light JWT analyzer written in pure Bash. Thi
 
 ### 1. Clone the repository
 
+```bash
+git clone https://github.com/yourusername/jwt-analyzer.git
+cd jwt-analyzer
+```
+
 ### 2. Make the script executable
 
+```bash
+chmod +x jwt-analyzer.sh
+```
+
 ### 3. Install required dependencies
+
+```bash
+# For Debian/Ubuntu
+sudo apt install jq openssl coreutils
+
+# For macOS
+brew install jq
+```
 
 ---
 
 ## Usage
 
+```bash
+./jwt-analyzer.sh --token <your.jwt.token>
+```
+
 ---
 
 ### 🧪 Example Token
 
+```bash
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+```
+
+# License
+
+jwt-analyzer is made with ❤️ by the https://x.com/Mitulkalsariya2
