@@ -21,7 +21,7 @@ A lightweight, fast, and dependency-light JWT analyzer written in pure Bash. Thi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/jwt-analyzer.git
+git clone https://github.com/mitulkalsariya/jwt-analyzer.git
 cd jwt-analyzer
 ```
 
