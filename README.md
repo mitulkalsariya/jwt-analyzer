@@ -16,3 +16,19 @@ A lightweight, fast, and dependency-light JWT analyzer written in pure Bash. Thi
 - 💬 Best-practice security tips for storage and transport
 
 ---
+## ⚙️ Installation
+
+### 1. Clone the repository
+
+### 2. Make the script executable
+
+### 3. Install required dependencies
+
+---
+
+## Usage
+
+---
+
+### 🧪 Example Token
+
